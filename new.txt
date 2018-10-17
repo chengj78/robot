@@ -1,4 +1,6 @@
+b12
 new text
 asdf
 test
 Creating a new branch is quick AND simple.
+reating a new branch is quick & simple.
